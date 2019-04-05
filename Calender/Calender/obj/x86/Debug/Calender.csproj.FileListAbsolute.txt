@@ -1,0 +1,16 @@
+D:\C# Project Try\Calender\Calender\bin\Debug\Calender.exe
+D:\C# Project Try\Calender\Calender\bin\Debug\Calender.pdb
+D:\C# Project Try\Calender\Calender\obj\x86\Debug\Calender.Form1.resources
+D:\C# Project Try\Calender\Calender\obj\x86\Debug\Calender.Properties.Resources.resources
+D:\C# Project Try\Calender\Calender\obj\x86\Debug\Calender.csproj.GenerateResource.Cache
+D:\C# Project Try\Calender\Calender\obj\x86\Debug\Calender.exe
+D:\C# Project Try\Calender\Calender\obj\x86\Debug\Calender.pdb
+D:\C# Project Try\SD Projects\Calender\Calender\obj\x86\Debug\Calender.exe
+D:\C# Project Try\SD Projects\Calender\Calender\obj\x86\Debug\Calender.pdb
+D:\C# Project Try\SD Projects\Calender\Calender\bin\Debug\Calender.exe
+D:\C# Project Try\SD Projects\Calender\Calender\bin\Debug\Calender.pdb
+D:\C# Project Try\SD Projects\Calender\Calender\obj\x86\Debug\Calender.Form1.resources
+D:\C# Project Try\SD Projects\Calender\Calender\obj\x86\Debug\Calender.Properties.Resources.resources
+D:\C# Project Try\SD Projects\Calender\Calender\obj\x86\Debug\Calender.csproj.GenerateResource.Cache
+C:\Users\Hasib\Desktop\sd\Calender\Calender\obj\x86\Debug\Calender.exe
+C:\Users\Hasib\Desktop\sd\Calender\Calender\obj\x86\Debug\Calender.pdb

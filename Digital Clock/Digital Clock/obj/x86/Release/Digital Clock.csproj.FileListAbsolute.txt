@@ -1,0 +1,7 @@
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\bin\Release\Digital Clock.exe
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\bin\Release\Digital Clock.pdb
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\obj\x86\Release\Digital_Clock.Form1.resources
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\obj\x86\Release\Digital_Clock.Properties.Resources.resources
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\obj\x86\Release\Digital Clock.csproj.GenerateResource.Cache
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\obj\x86\Release\Digital Clock.exe
+D:\C# Project Try\SD Projects\Digital Clock\Digital Clock\obj\x86\Release\Digital Clock.pdb
